@@ -7,7 +7,7 @@ int main(){
     double a, b;
 
     printf("\nChoose: '+'-1 '-'-2 '*'-3 '/'-4 'exp'-5 'sq.root'-6 'log10'-7:");
-    scanf("%c",&op);
+    scanf("%c", &op);
     switch (op)
     {
     case '1':
